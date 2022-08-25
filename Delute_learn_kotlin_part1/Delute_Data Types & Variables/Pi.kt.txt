@@ -1,0 +1,5 @@
+fun main() {
+  // Write your code below
+  val pi: Double = 3.14
+  pi = 2.22 //will show an error since pi is constant and its value cannot be changed
+}

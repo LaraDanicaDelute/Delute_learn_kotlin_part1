@@ -1,0 +1,6 @@
+fun main(){
+  println(2022 - 2001)
+  println("hakdog")
+  //kapoya :>
+}
+

@@ -1,0 +1,6 @@
+fun main() {
+  // Write your code below 
+  var favSong: String = "All Too Well"
+  var minute: Int = 10
+  var currentlyListening = false
+}
